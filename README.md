@@ -75,7 +75,7 @@
         </td>
         <td style="padding: 10px; border: 1px solid #d0d7de; text-align: center;">
           <a href="https://github.com/wookoonngg" target="_blank">
-            <img src="[[https://img.shields.io/badge/Repository-Link-181717?style=flat-square&logo=github](https://github.com/KSEB-MEGA-CREW/)](https://github.com/KSEB-MEGA-CREW)"/>
+            <img src="https://img.shields.io/badge/Repository-Link-181717?style=flat-square&logo=github"/>
           </a>
         </td>
         <td style="padding: 10px; border: 1px solid #d0d7de; color: #238636; font-weight: bold;">
@@ -91,11 +91,11 @@
         </td>
         <td style="padding: 10px; border: 1px solid #d0d7de; text-align: center;">
           <a href="https://github.com/wookoonngg" target="_blank">
-            <img src="[https://img.shields.io/badge/Repository-Link-181717?style=flat-square&logo=github](https://github.com/wookoonngg/appa-da)"/>
+            <img src="https://img.shields.io/badge/Repository-Link-181717?style=flat-square&logo=github"/>
           </a>
         </td>
         <td style="padding: 10px; border: 1px solid #d0d7de; color: #238636; font-weight: bold;">
-          🏆 최우수상<br>& 우수상 수상
+          🏆 우수상 수상
         </td>
       </tr>
       <tr>
