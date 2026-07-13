@@ -123,6 +123,5 @@
 
 <div align="center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-  <!-- 디자인이 깔끔하고 서버가 안정적인 솔루션 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=wookoonngg&show_icons=true&theme=radical" alt="Wookoonngg's GitHub stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wookoonngg&theme=github-dark-orange" alt="Wookoonngg's GitHub Activity Graph">
 </div>
