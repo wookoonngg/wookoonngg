@@ -51,6 +51,41 @@
     <tbody>
       <tr>
         <td style="padding: 10px; border: 1px solid #d0d7de;">
+          <strong>🚀 웹포폴 자동 생성 및 기업 추천 (TMI)</strong>
+        </td>
+        <td style="padding: 10px; border: 1px solid #d0d7de; font-size: 13px;">
+          개발자 취업 준비생들을 위한 맞춤형 웹 포트폴리오 자동 생성 기능 및 적합한 기업 매칭 추천 서비스 제공 솔루션
+        </td>
+        <td style="padding: 10px; border: 1px solid #d0d7de; text-align: center;">
+          <a href="https://github.com/2026-TEAM-TMI/TMI-FRONTEND" target="_blank">
+            <img src="https://img.shields.io/badge/Repo-Frontend-181717?style=flat-square&logo=github"/><br>
+          </a>
+          <a href="https://github.com/2026-TEAM-TMI/TMI-AI" target="_blank" style="margin-top: 4px; display: inline-block;">
+            <img src="https://img.shields.io/badge/Repo-AI-181717?style=flat-square&logo=github"/>
+          </a>
+        </td>
+        <td style="padding: 10px; border: 1px solid #d0d7de; color: #238636; font-weight: bold;">
+          🏆 우수상 수상
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #d0d7de;">
+          <strong>🕵️ 다크 패턴 탐지 시스템 (darkpattern)</strong>
+        </td>
+        <td style="padding: 10px; border: 1px solid #d0d7de; font-size: 13px;">
+          금융 플랫폼 내 눈속임 설계(다크 패턴)를 탐지 및 분석하여 사용자에게 경고하고, 투명한 금융 안정권을 조성하는 보안 솔루션
+        </td>
+        <td style="padding: 10px; border: 1px solid #d0d7de; text-align: center;">
+          <a href="https://github.com/wookoonngg/finacialContest-darkpattern" target="_blank">
+            <img src="https://img.shields.io/badge/Repository-Link-181717?style=flat-square&logo=github"/>
+          </a>
+        </td>
+        <td style="padding: 10px; border: 1px solid #d0d7de; font-size: 12px; color: #0969da; font-weight: bold;">
+          💼 금융 안전 공모전<br>출품작
+        </td>
+      </tr>
+      <tr>
+        <td style="padding: 10px; border: 1px solid #d0d7de;">
           <strong>♿ 배리어프리 교내 내비게이션 앱</strong><br>
           <img src="https://img.shields.io/badge/Team_Leader-🚀-blue?style=flat-square"/>
         </td>
@@ -90,7 +125,7 @@
           해운 물류 체인의 투명성 제고를 위한 선하증권(B/L) 및 화물 문서 위변조 방지 Hash·PoW 메커니즘 스마트 컨트랙트 원장 제작
         </td>
         <td style="padding: 10px; border: 1px solid #d0d7de; text-align: center;">
-          <a href="https://github.com/wookoonngg" target="_blank">
+          <a href="https://github.com/wookoonngg/shippingapp" target="_blank">
             <img src="https://img.shields.io/badge/Repository-Link-181717?style=flat-square&logo=github"/>
           </a>
         </td>
