@@ -43,8 +43,6 @@
 <img src="https://img.shields.io/badge/Python-7CB86B?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/FastAPI-A8D08D?style=for-the-badge&logo=FastAPI&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-6FA96D?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Nginx-8FBC8F?style=for-the-badge&logo=Nginx&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-9CCC65?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-7CB86B?style=for-the-badge&logo=Linux&logoColor=white">
 <img src="https://img.shields.io/badge/AWS-6FA96D?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
 
@@ -52,12 +50,9 @@
 <br/>
 <img src="https://img.shields.io/badge/PyTorch-8FBC8F?style=for-the-badge&logo=PyTorch&logoColor=white">
 <img src="https://img.shields.io/badge/TensorFlow-9CCC65?style=for-the-badge&logo=TensorFlow&logoColor=white">
-<img src="https://img.shields.io/badge/Hugging_Face-A8D08D?style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/Pandas-6FA96D?style=for-the-badge&logo=Pandas&logoColor=white">
 <img src="https://img.shields.io/badge/NumPy-7CB86B?style=for-the-badge&logo=NumPy&logoColor=white">
-<img src="https://img.shields.io/badge/Jupyter-8FBC8F?style=for-the-badge&logo=Jupyter&logoColor=white">
 <img src="https://img.shields.io/badge/Machine_Learning-9CCC65?style=for-the-badge">
-<img src="https://img.shields.io/badge/Fine--Tuning-A8D08D?style=for-the-badge">
 <img src="https://img.shields.io/badge/Claude_API-6FA96D?style=for-the-badge">
 
 **Tools**
@@ -75,8 +70,6 @@
 <div align="center">
 
 ## Projects &amp; Awards
-
-<sub>카드를 클릭하면 펼쳐져요</sub>
 
 </div>
 
