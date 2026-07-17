@@ -8,6 +8,10 @@
 
 <div align="center">
 
+## Contact
+
+<div align="center">
+
 <a href="mailto:guiyomyee@gmail.com"><img src="https://img.shields.io/badge/Gmail-6FA96D?style=for-the-badge&logo=Gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/wookoonngg" target="_blank"><img src="https://img.shields.io/badge/Instagram-8FBC8F?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 
