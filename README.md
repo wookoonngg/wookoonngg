@@ -124,7 +124,7 @@
 
 해운 물류 체인의 투명성 제고를 위한 선하증권(B/L) 및 화물 문서 위변조 방지 Hash·PoW 메커니즘 스마트 컨트랙트 원장 제작
 
-<a href="https://github.com/wookoonngg/shippingapp"><img src="https://img.shields.io/badge/Repository-6FA96D?style=flat-square&logo=github&logoColor=white"></a>
+<a href="https://github.com/wookoonngg/appa-da"><img src="https://img.shields.io/badge/Repository-6FA96D?style=flat-square&logo=github&logoColor=white"></a>
 
 </details>
 
